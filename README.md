@@ -5,6 +5,3 @@
 <br/>
 
 Programmer :computer: at [Intsys](https://pt-br.facebook.com/intsyssistemas/) :briefcase: since 2009 :blush:
-
-# 
-![](https://github-readme-streak-stats.herokuapp.com/?user=allandiaspereira&theme=dark&hide_border=false)<br/>
